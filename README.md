@@ -50,6 +50,7 @@ MONGODB_URI=
 DATABASE_NAME=
 JWT_TIMEOUT_DURATION="7 days"
 JWT_SECRET=s9df7sd8
+WEBHOOK_SECRET=9fs7fs
 ```
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on [MongoDB](https://www.mongodb.com/). 
